@@ -18,7 +18,7 @@ import axios from 'axios'
 import './App.css'
 import LandingPage from './LandingPage'
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000'
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://ai-medical-report-backend.vercel.app'
 
 // --- Premium UI Components ---
 
